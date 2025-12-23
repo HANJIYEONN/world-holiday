@@ -1,0 +1,11 @@
+{
+  "common": {
+    "title": "세계 휴일",
+    "description": "세계 각국의 휴일 정보를 확인하세요"
+  },
+  "home": {
+    "welcome": "환영합니다",
+    "getStarted": "시작하려면 page.tsx 파일을 수정하세요"
+  }
+}
+

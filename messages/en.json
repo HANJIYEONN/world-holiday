@@ -1,0 +1,11 @@
+{
+  "common": {
+    "title": "World Holiday",
+    "description": "Check holiday information from countries around the world"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "getStarted": "To get started, edit the page.tsx file"
+  }
+}
+
